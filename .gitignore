@@ -1,0 +1,6 @@
+*.dll
+*.dcu
+*.dproj.local
+*.dsk
+*.identcache
+*.stat
